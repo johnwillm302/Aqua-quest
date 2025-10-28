@@ -40,6 +40,7 @@ GET /api/v1/transactions?account.id=0.0.{user}
 
 yaml
 Copy code
+paste code
 
 ### 🧩 Player Dashboard
 - Shows:
